@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python, Sql, Web-scraping**
 
-- 👯 I’m looking to collaborate on **Any Open source ML & data science projects**
+- 👯 I’m looking to collaborate on **Any Open source ml and data science projects**
 
 - 🤝 I’m looking for help with **Learning and materials**
 
