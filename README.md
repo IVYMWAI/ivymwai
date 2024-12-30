@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivymwai&label=Profile%20views&color=0e75b6&style=flat" alt="ivymwai" /> </p>
 
-- 🔭 I’m currently working on **100Days Of Data Science**
+- 🔭 Currently enrolled   **ALX Data Analysis Programme**
 
-- 🌱 I’m currently learning **Python, Sql, Web-scraping**
+- 🌱 I’m currently learning **PowerBI, Sql**
 
-- 👯 I’m looking to collaborate on **Any Open source ml and data science projects**
+- 👯 I’m looking to collaborate on **Any Open source ml and data analysis projects**
 
 - 🤝 I’m looking for help with **Learning and materials**
 
-- 💬 Ask me about **Python, Mathlab, Sql**
+- 💬 Ask me about **Python, Microsoft Excel, Sql**
 
 - 📫 How to reach me **ivymwai6@gmail.com**
 
